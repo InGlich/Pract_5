@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Пользователь\source\repos\Project6\Project6\Source.c(8,2): warning C4013: TaskDZ: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Project6\Project6\Source.c(30,29): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Пользователь\source\repos\Project6\Project6\Source.c(30,29): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  Source1.c
+  Создание кода...
+Source1.obj : error LNK2005: main уже определен в Source.obj
+C:\Users\Пользователь\source\repos\Project6\x64\Debug\Project6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
